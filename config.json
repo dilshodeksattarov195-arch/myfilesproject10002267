@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailprocess",
+        "uuid": 14492931,
+        "checksum": "n1sqcj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
